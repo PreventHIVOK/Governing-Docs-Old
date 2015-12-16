@@ -9,4 +9,5 @@ Please, feel free to fork this repository and send updates. They will be reviewe
 ## Frequently Asked Questions
 
 **Why use the corporate suffix _Syndicate_?**
+
 Syndicate literally means "a group of individuals or organizations combined to promote some common interest." Prevent HIV OK is exactly that.
