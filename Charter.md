@@ -1,6 +1,7 @@
 # Articles of Incorporation of Prevent HIV OK
 
 The undersigned, a majority of whom are citizens of the United States, desiring to form a Non-Profit Corporation under the Non-Profit Corporation Law of Oklahoma, do hereby certify:
+
  **First**: The name of the Corporation shall be Prevent HIV OK Syndicate.
   
  **Second**: The place in this state where the principal office of the Corporation is to be located is the City of Tulsa, Tulsa County.
