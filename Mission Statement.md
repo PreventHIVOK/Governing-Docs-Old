@@ -4,7 +4,7 @@
 Helping to prevent new HIV infection through inforamtion, education, and legislation.
 
 ## Mission
-Prevent HIV OK Syndicate shall be to utilize web-based technologies. to help persons of all ages learn about human immunodeficency virus ("HIV") and sexualy ransmittable infections ("STIs"). Technologies shall include a location-based search to find the nearest low-cost HIV and STI test facility or facilities, educational materials, including, but not limited to:
+Prevent HIV OK Syndicate shall be to utilize web-based technologies. to help persons of all ages learn about human immunodeficency virus ("HIV") and sexualy transmittable infections ("STIs"). Technologies shall include a location-based search to find the nearest low-cost HIV and STI test facility or facilities, educational materials, including, but not limited to:
 
 - HIV and STI prevention methods, such as:
   1. pre-exposure prophylaxis ("PrEP"),
