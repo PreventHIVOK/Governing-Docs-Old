@@ -1,6 +1,6 @@
-CC0 1.0 Universal
+# CC0 1.0 Universal
 
-Statement of Purpose
+## Statement of Purpose
 
 The laws of most jurisdictions throughout the world automatically confer
 exclusive Copyright and Related Rights (defined below) upon the creator and
@@ -112,6 +112,5 @@ Affirmer's express Statement of Purpose.
   party to this document and has no duty or obligation with respect to this
   CC0 or use of the Work.
 
-For more information, please see
-<http://creativecommons.org/publicdomain/zero/1.0/>
+For more information, please see: http://creativecommons.org/publicdomain/zero/1.0/
 
