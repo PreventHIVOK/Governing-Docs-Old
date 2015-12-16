@@ -14,4 +14,4 @@ Prevent HIV OK Syndicate shall be to utilize web-based technologies. to help per
 - proper needle safety techniques; and
 - information about HIV and STI symptoms.
 
-This mission is preliminary and eill be extended as 
+This mission is preliminary and will be extended as necessary.
