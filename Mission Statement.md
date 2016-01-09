@@ -1,7 +1,7 @@
 # Mission Statement and Slogan for Prevent HIV OK Syndicate
 
 ## Slogan
-Helping to prevent new HIV infection through information, education, and legislation.
+Helping to prevent new HIV infections through information, education, and legislation.
 
 ## Mission
 Prevent HIV OK Syndicate shall be to utilize web-based technologies. to help persons of all ages learn about human immunodeficency virus ("HIV") and sexualy transmittable infections ("STIs"). Technologies shall include a location-based search to find the nearest low-cost HIV and STI test facility or facilities, educational materials, including, but not limited to:
